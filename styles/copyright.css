@@ -1,20 +1,40 @@
 
-/* .copyright-wrapper {
+.copyright-wrapper {
     width: 100vw;
     height: 30vh;
     display: flex;
     align-items: center;
     justify-content: center;
+    background: #f4e861;
 }
 
+/* Left */
 
 .copyright-wrapper > .left {
     width: 50%;
     height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
+.copyright-wrapper > .left > .logo {
+    width: 40%;
+    height: 20%;
+    background: url("../images/logos/failureText.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
 
-.copyright-wrapper > .left {
+/* right */
+
+.copyright-wrapper > .right {
     width: 50%;
     height: 100%;
-} */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.3rem;
+    font-family: 'Archivo', sans-serif;
+    font-weight: 900;
+}
