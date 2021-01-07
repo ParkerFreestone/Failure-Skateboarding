@@ -4,3 +4,8 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    background-color: rgb(229 226 217);
+    overflow-x: hidden;
+}
