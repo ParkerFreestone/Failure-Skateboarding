@@ -29,7 +29,10 @@
                     <a href="#"> HOME </a>
                 </div>
                 <div class="link">
-                    <a href="#"> PRODUCTS </a>
+                    <a href="#"> CLOTHING </a>
+                </div>
+                <div class="link">
+                    <a href="#"> SKATE </a>
                 </div>
                 <div class="link">
                     <a href="#"> CONTACT </a>
